@@ -11,7 +11,7 @@ I am a final year Software Engineering student at the University of South Austra
 * 🧠  I'm learning React JS and React Native.
 * 🤝  I'm open to collaborating on Interesting Software Projects
 * ⚡  I love playing FPS Games :)
-* 🌍  Visit my Personal Portfolio : [harkaran.online](harkaran.online).
+* 🌍  Visit my Personal Portfolio : [harkaran.online](http://harkaran.online).
 
 ### Skills
 
