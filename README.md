@@ -7,11 +7,9 @@ Software Engineer
 I am a final year Software Engineering student at the University of South Australia. I have strong technical knowledge related to modern programming languages and frameworks. I am quite passionate about everything related to computers and that includes coding. For me, Coding is an art and a means of conveying my message to others. I strongly believe that technology can be utilised to create this world a better living place for anyone, and I definitely want to be a part of that.
 
 * 🌍  I'm based in Adelaide, South Australia
-* ✉️  You can contact me at [sinhy040@mymail.unisa.edu.au](mailto:sinhy040@mymail.unisa.edu.au)
-* 🧠  I'm learning React JS and React Native.
+* ✉️  You can contact me at [harrygills001@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Software Projects
-* ⚡  I love playing FPS Games :)
-* 🌍  Visit my Personal Portfolio : [harkaran.online](http://harkaran.online).
+* 🌍  Visit my Personal Portfolio : [[todo]]
 
 ### Skills
 
