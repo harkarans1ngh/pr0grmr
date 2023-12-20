@@ -4,10 +4,9 @@ Hi! My name is Harkaran Singh
 Software Engineer
 -----------------
 
-* 🌍  I'm a passionate Software Engineer based in Australia
-* ✉️  You can contact me at [harrygills001@gmail.com)
+* 🌍  Software Engineer based in Australia
+* ✉️  Contact me at [harkaran@harkaransingh.com)
 * 🤝  I'm open to collaborating on Interesting Software Projects
-* 🌍  Visit my Personal Portfolio : [[todo]]
 
 ### Skills
 
